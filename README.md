@@ -11,9 +11,26 @@ Everything on the site is plain text. To change anything, edit a file and re-pub
 | New publication | `publications.bib` (add a BibTeX entry — it auto-renders on the Research page) |
 | Home bio / links | `index.qmd` |
 | Teaching list | `teaching.qmd` |
-| CV / education / appointments | `cv.qmd` (drop `cv.pdf` here to add a download button) |
+| CV (downloadable PDF) | **Do not edit `cv.pdf` here.** It is pulled from the CV folder — see "CV source of truth" below. |
+| CV page text (education, appointments) | `cv.qmd` |
 | New blog post | new folder under `posts/` with an `index.qmd` |
 | Site title / menu / theme | `_quarto.yml` |
+
+## CV source of truth
+
+The CV lives in your **CV folder**, not here:
+`~/Library/Mobile Documents/com~apple~CloudDocs/Personal documents/CV/web-cv/`
+(also reachable via the `cv-source` link in the project root).
+
+You edit the CV there (`CV-web.tex` → `./build.sh`). This website only **pulls the newest
+PDF** from that folder. To update the site's CV:
+
+```bash
+./pull-cv.sh            # copy newest CV/web-cv/*.pdf into cv.pdf
+./pull-cv.sh --publish  # ...and render + deploy in one step
+```
+
+Or just tell Claude **"update my CV on the site."**
 
 ## Publish
 
