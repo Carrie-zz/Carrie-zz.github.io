@@ -15,18 +15,6 @@ Innovation · Firm strategy · Organizational behavior · Labor demand and suppl
 ::: {#refs}
 :::
 
-## Working papers
-
-- **The long-run impact of the internationalization of innovation on firm performance.** Single author, 2023. *(R&R, Applied Economics.)*
-- **Innovating under uncertainty: From R&D financing to patent output.** With Vivek Ghosal, 2024. *(Under review.)*
-- **Environmental regulation and horizontal mergers in the environmental industry.** Single author, 2023.
-- **Regulatory constraints, innovation, and the determinants of recalls in the medical devices industry.** With Vivek Ghosal and D. Daniel Sokol, 2022.
-
-## Work in progress
-
-- **The impact of green innovation on firms' employment growth.** With Yuechao Ma.
-- **The impact of green innovation on firms' financial performance: Evidence from the Green Credit policy as a quasi-natural experiment.** With Han Ou.
-
 ## Grants
 
 - **The Multidimensional Effects and Mechanism Analysis of Corporate Green Innovation on the Enhancement of New Quality Productive Forces.** Faculty Research Grants, Macau University of Science and Technology. *Principal Investigator, 2024–2025.*
