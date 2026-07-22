@@ -35,3 +35,13 @@ table {
 .navbar-brand {
   font-weight: 700;
 }
+
+/* Home: put the CV link on its own second line, below the icon row */
+.about-links {
+  flex-wrap: wrap;
+}
+.about-links a.about-link[href$="cv.html"] {
+  flex-basis: 100%;
+  justify-content: center;
+  margin-top: 0.35rem;
+}
