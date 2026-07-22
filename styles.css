@@ -43,9 +43,9 @@ main h3 {
 /* Put the CV link on its own second line, below the icon row */
 .about-links { flex-wrap: wrap; }
 .about-links a.about-link[href$="cv.pdf"] {
-  flex-basis: 100%;
-  justify-content: center;
-  margin-top: 0.35rem;
+  flex-basis: 100%;         /* forces onto its own second line */
+  max-width: max-content;   /* ...but only as wide as its text */
+  margin: 0.35rem auto 0;   /* centered */
 }
 
 /* ---- Publication list ---- */
