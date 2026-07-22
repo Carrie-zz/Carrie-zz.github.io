@@ -1,0 +1,37 @@
+/* Subtle refinements over the cosmo/darkly themes */
+
+:root {
+  --accent: #1f6feb;
+}
+
+body {
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+/* Home page name + Chinese subtitle */
+#title-block-header .quarto-title .title {
+  font-weight: 700;
+}
+#title-block-header .subtitle {
+  color: #6c757d;
+  font-weight: 400;
+  font-size: 1.4rem;
+  margin-top: -0.2rem;
+}
+
+/* Publication list spacing */
+#refs .csl-entry {
+  margin-bottom: 0.9rem;
+  padding-left: 1.4rem;
+  text-indent: -1.4rem;
+}
+
+/* Tables in CV */
+table {
+  font-size: 0.97rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}

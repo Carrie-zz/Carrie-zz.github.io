@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Zhe Zhai</title>
+<link>https://carrie-zz.github.io/posts.html</link>
+<atom:link href="https://carrie-zz.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Zhe Zhai (翟喆) — Assistant Professor of Economics, School of Business, Macau University of Science and Technology.</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Tue, 21 Jul 2026 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome</title>
+  <dc:creator>Zhe Zhai</dc:creator>
+  <link>https://carrie-zz.github.io/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is the home for short notes and longer pieces on my research and on economics more broadly — the economics of innovation, firm strategy, labor markets, and corporate finance.</p>
+<p>New posts will appear here. To write one, I add a folder under <code>posts/</code> with an <code>index.qmd</code> — or just tell Claude the idea and it drafts and publishes it.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>en</category>
+  <guid>https://carrie-zz.github.io/posts/welcome/</guid>
+  <pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
