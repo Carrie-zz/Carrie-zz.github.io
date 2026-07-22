@@ -2,9 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-<!-- To add your CV: drop `cv.pdf` into this folder, then uncomment the line below.
-     Tell Claude "my CV is at <path>" and it will be placed and linked automatically. -->
-<!-- [📄 Download CV (PDF)](cv.pdf){.btn .btn-primary} -->
+[📄 Download CV (PDF)](cv.pdf){.btn .btn-primary .btn-sm}
 
 ## Education
 
@@ -21,10 +19,14 @@ title: "Curriculum Vitae"
 | 2024–present | Assistant Professor | Macau University of Science and Technology |
 | 2018–2024 | Assistant Professor | Hunan University |
 
+## Languages
+
+Chinese (native) · English (fluent) · French (elementary)
+
 ## Contact
 
 - **Email:** [zzhai@must.edu.mo](mailto:zzhai@must.edu.mo)
 - **Tel:** (853) 8897-3691
-- **Office:** School of Business, Macau University of Science and Technology
+- **Office:** Room O924, School of Business, Macau University of Science and Technology, Avenida Wai Long, Taipa, Macau
 
-*See [Research](research.qmd) for publications, grants, and service.*
+*See [Research](research.qmd) for publications, working papers, grants, and service.*
