@@ -6,10 +6,6 @@ nocite: |
   @*
 ---
 
-## Research areas
-
-Innovation · Firm strategy · Organizational behavior · Labor demand and supply · Corporate finance · Globalization · Environmental economics.
-
 ## Publications
 
 ::: {#refs}

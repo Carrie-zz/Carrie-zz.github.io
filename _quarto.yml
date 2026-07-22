@@ -22,13 +22,6 @@ website:
       #   text: CV
       # - href: posts.qmd      # Blog tab hidden for now — uncomment to restore
       #   text: Blog
-    right:
-      - icon: envelope
-        href: "mailto:zzhai@must.edu.mo"
-        aria-label: Email
-      - icon: mortarboard-fill
-        href: "https://scholar.google.com/"
-        aria-label: Google Scholar
   page-footer:
     left: "© 2026 Zhe Zhai"
     right: "Built with [Quarto](https://quarto.org)"
@@ -40,5 +33,6 @@ format:
       dark: darkly
     css: styles.css
     toc: false
+    anchor-sections: false
     grid:
       body-width: 900px
