@@ -1,0 +1,30 @@
+---
+title: "Curriculum Vitae"
+---
+
+<!-- To add your CV: drop `cv.pdf` into this folder, then uncomment the line below.
+     Tell Claude "my CV is at <path>" and it will be placed and linked automatically. -->
+<!-- [📄 Download CV (PDF)](cv.pdf){.btn .btn-primary} -->
+
+## Education
+
+| Year | Degree | Institution |
+|------|--------|-------------|
+| 2012–2017 | Ph.D., Economics | Georgia Institute of Technology (USA) |
+| 2011–2012 | M.A., Economics | Boston University (USA) |
+| 2007–2011 | B.A., Taxation & Accounting | Central University of Finance and Economics (China) |
+
+## Appointments
+
+| Year | Position | Institution |
+|------|----------|-------------|
+| 2024–present | Assistant Professor | Macau University of Science and Technology |
+| 2018–2024 | Assistant Professor | Hunan University |
+
+## Contact
+
+- **Email:** [zzhai@must.edu.mo](mailto:zzhai@must.edu.mo)
+- **Tel:** (853) 8897-3691
+- **Office:** School of Business, Macau University of Science and Technology
+
+*See [Research](research.qmd) for publications, grants, and service.*

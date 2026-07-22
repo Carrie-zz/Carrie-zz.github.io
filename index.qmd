@@ -1,0 +1,31 @@
+---
+title: "Zhe Zhai"
+subtitle: "翟喆"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:zzhai@must.edu.mo"
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: "https://scholar.google.com/"
+    - icon: file-earmark-person
+      text: CV
+      href: cv.qmd
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/"
+---
+
+I am an Assistant Professor of Economics in the [School of Business](https://www.must.edu.mo/) at the **Macau University of Science and Technology**. I received my Ph.D. in Economics from the **Georgia Institute of Technology**.
+
+My research is in applied microeconomics — the economics of **innovation and firm strategy**, **labor markets**, and **corporate finance**, with recent work on corporate green innovation and new quality productive forces.
+
+我是澳門科技大學商學院經濟學助理教授，博士畢業於美國佐治亞理工學院，研究方向為創新經濟學、企業戰略、勞動經濟學與公司金融。
+
+::: {.callout-note appearance="simple"}
+📍 School of Business, Macau University of Science and Technology · ✉️ [zzhai@must.edu.mo](mailto:zzhai@must.edu.mo)
+:::

@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+date: "2026-07-22"
+categories: [news, en]
+---
+
+This is the home for short notes and longer pieces on my research and on economics more broadly — the economics of innovation, firm strategy, labor markets, and corporate finance.
+
+New posts will appear here. To write one, I add a folder under `posts/` with an `index.qmd` — or just tell Claude the idea and it drafts and publishes it.

@@ -1,0 +1,29 @@
+---
+title: "Research"
+bibliography: publications.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+nocite: |
+  @*
+---
+
+## Research areas
+
+Innovation · Firm strategy · Organizational behavior · Labor demand and supply · Corporate finance · Globalization · Environmental economics.
+
+## Publications
+
+::: {#refs}
+:::
+
+## Grants
+
+- **The Multidimensional Effects and Mechanism Analysis of Corporate Green Innovation on the Enhancement of New Quality Productive Forces.** Faculty Research Grants, Macau University of Science and Technology. *Principal Investigator, 2024–2025.*
+- **"Excellent Young Scholars" Program**, Hunan Provincial Department of Education. *Principal Investigator, 2024–2026.*
+- **Economic Impact Analysis of GDOT's Short Line Railroads**, Georgia Department of Transportation. *Personnel, 2016–2018.*
+
+## Professional service
+
+- **Referee:** *Journal of International Financial Markets, Institutions & Money*; *Journal of Political Economy Microeconomics*; *China Economic Review*; *Journal of Management Science and Engineering*.
+- **External reviewer:** Department of Education, Central University of Finance and Economics.
+- **Conference organizing committee**, Xiangjiang Forum, 2022–2023.
+- **Guest tutor**, USPTO Patent and Trademark Resource Center at Georgia Institute of Technology, February 2015.
