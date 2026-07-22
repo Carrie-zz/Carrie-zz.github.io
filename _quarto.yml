@@ -20,8 +20,8 @@ website:
         text: Teaching
       - href: cv.qmd
         text: CV
-      - href: posts.qmd
-        text: Blog
+      # - href: posts.qmd      # Blog tab hidden for now — uncomment to restore
+      #   text: Blog
     right:
       - icon: envelope
         href: "mailto:zzhai@must.edu.mo"
