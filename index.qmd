@@ -1,6 +1,7 @@
 ---
 title: "Zhe Zhai"
 subtitle: "翟喆"
+description: "Zhe Zhai (翟喆), Assistant Professor of Economics at the School of Business, Macau University of Science and Technology. Research on innovation, firm strategy, labor markets, and corporate finance."
 about:
   template: trestles
   image: profile.jpg
