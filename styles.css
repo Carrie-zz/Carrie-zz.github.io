@@ -1,47 +1,86 @@
-/* Subtle refinements over the cosmo/darkly themes */
-
+/* ---- Design system ---- */
 :root {
-  --accent: #1f6feb;
+  --accent: #2c5282;        /* refined academic blue */
+  --accent-soft: #ebf0f6;
+  --ink: #23303c;
 }
 
 body {
   font-size: 1.02rem;
-  line-height: 1.6;
+  line-height: 1.65;
+  color: var(--ink);
 }
 
-/* Home page name + Chinese subtitle */
-#title-block-header .quarto-title .title {
+/* Links in the accent color */
+main a,
+.about-links a.about-link:hover {
+  color: var(--accent);
+}
+main a:hover { text-decoration: underline; }
+
+/* Headings: a touch more weight + an accent underline on section titles */
+h1, h2, h3 { letter-spacing: -0.01em; }
+main h2 {
   font-weight: 700;
+  font-size: 1.35rem;
+  margin-top: 2.2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid var(--accent-soft);
 }
-#title-block-header .subtitle {
-  color: #6c757d;
-  font-weight: 400;
-  font-size: 1.4rem;
-  margin-top: -0.2rem;
-}
-
-/* Publication list spacing */
-#refs .csl-entry {
-  margin-bottom: 0.9rem;
-  padding-left: 1.4rem;
-  text-indent: -1.4rem;
+main h3 {
+  font-weight: 600;
+  font-size: 1.1rem;
+  margin-top: 1.4rem;
 }
 
-/* Tables in CV */
-table {
-  font-size: 0.97rem;
-}
+/* Navbar */
+.navbar-brand { font-weight: 700; letter-spacing: -0.01em; }
+.navbar .nav-link { font-weight: 500; }
 
-.navbar-brand {
-  font-weight: 700;
-}
+/* ---- Home about block ---- */
+#title-block-header .quarto-title .title { font-weight: 700; }
 
-/* Home: put the CV link on its own second line, below the icon row */
-.about-links {
-  flex-wrap: wrap;
-}
-.about-links a.about-link[href$="cv.html"] {
+/* Put the CV link on its own second line, below the icon row */
+.about-links { flex-wrap: wrap; }
+.about-links a.about-link[href$="cv.pdf"] {
   flex-basis: 100%;
   justify-content: center;
   margin-top: 0.35rem;
 }
+
+/* ---- Publication list ---- */
+.pub-list ol,
+.pub-list ul { padding-left: 1.25rem; }
+.pub-list li {
+  margin-bottom: 1.05rem;
+  line-height: 1.5;
+}
+.pub-list li::marker { color: var(--accent); font-weight: 600; }
+
+/* Clean "[Journal]" style link chips */
+a.pub-link {
+  display: inline-block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.2rem 0.5rem;
+  margin-left: 0.15rem;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  color: var(--accent) !important;
+  text-decoration: none !important;
+  vertical-align: 0.05em;
+}
+a.pub-link:hover {
+  background: var(--accent);
+  color: #fff !important;
+}
+
+/* Tables (CV/other) */
+table { font-size: 0.97rem; }
+
+/* ---- Dark theme adjustments ---- */
+@media (prefers-color-scheme: dark) {
+  :root { --accent: #7fb0e0; --accent-soft: #22303f; --ink: #d8dee6; }
+}
+:root[data-theme="dark"] { --accent: #7fb0e0; --accent-soft: #22303f; --ink: #d8dee6; }
