@@ -17,6 +17,6 @@ echo "Pulled newest CV: $(basename "$newest")  ->  site/cv.pdf"
 
 if [ "$1" = "--publish" ]; then
   cd "$HERE"
-  quarto render cv.qmd >/dev/null
+  quarto render >/dev/null
   quarto publish gh-pages --no-prompt --no-render
 fi

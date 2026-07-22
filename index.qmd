@@ -22,7 +22,7 @@ about:
       href: "https://www.linkedin.com/"
     - icon: file-earmark-person
       text: CV
-      href: cv.qmd
+      href: cv.pdf
 ---
 
 I am an Assistant Professor of Economics in the School of Business at the **Macau University of Science and Technology**. I received my Ph.D. in Economics from the **Georgia Institute of Technology**.

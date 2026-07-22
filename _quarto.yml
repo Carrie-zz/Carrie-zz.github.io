@@ -1,11 +1,14 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - cv.pdf
 
 website:
   title: "Zhe Zhai"
   description: "Zhe Zhai (翟喆) — Assistant Professor of Economics, School of Business, Macau University of Science and Technology."
   site-url: "https://carrie-zz.github.io/"
+  favicon: favicon.svg
   open-graph: true
   twitter-card:
     card-style: summary
@@ -18,8 +21,9 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      # - href: cv.qmd         # CV tab hidden — CV is linked from the home page
-      #   text: CV
+      - text: CV
+        href: cv.pdf
+        target: _blank
       # - href: posts.qmd      # Blog tab hidden for now — uncomment to restore
       #   text: Blog
   page-footer:
