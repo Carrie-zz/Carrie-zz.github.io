@@ -18,8 +18,8 @@ website:
         text: Research
       - href: teaching.qmd
         text: Teaching
-      - href: cv.qmd
-        text: CV
+      # - href: cv.qmd         # CV tab hidden — CV is linked from the home page
+      #   text: CV
       # - href: posts.qmd      # Blog tab hidden for now — uncomment to restore
       #   text: Blog
     right:

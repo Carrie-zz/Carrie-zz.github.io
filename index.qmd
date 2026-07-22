@@ -1,7 +1,11 @@
 ---
 title: "Zhe Zhai"
 subtitle: "翟喆"
-description: "Zhe Zhai (翟喆), Assistant Professor of Economics at the School of Business, Macau University of Science and Technology. Research on innovation, firm strategy, labor markets, and corporate finance."
+format:
+  html:
+    include-in-header:
+      text: |
+        <meta name="description" content="Zhe Zhai (翟喆), Assistant Professor of Economics at the School of Business, Macau University of Science and Technology. Research on innovation, firm strategy, labor markets, and corporate finance.">
 about:
   template: trestles
   image: profile.jpg
@@ -22,8 +26,6 @@ about:
       href: "https://www.linkedin.com/"
 ---
 
-I am an Assistant Professor of Economics in the School of Business at the **Macau University of Science and Technology**. I received my Ph.D. in Economics from the **Georgia Institute of Technology**.
-
-My research is in applied microeconomics — the economics of **innovation and firm strategy**, **labor markets**, and **corporate finance**, with recent work on corporate green innovation and new quality productive forces.
+I am an Assistant Professor of Economics in the School of Business at the **Macau University of Science and Technology**, with a Ph.D. in Economics from the **Georgia Institute of Technology**. My research is in applied microeconomics — **innovation and firm strategy**, **labor markets**, and **corporate finance** — with recent work on corporate green innovation.
 
 我是澳門科技大學商學院經濟學助理教授，博士畢業於美國佐治亞理工學院，研究方向為創新經濟學、企業戰略、勞動經濟學與公司金融。
