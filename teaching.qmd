@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-#### Teaching Fields
-
 - **Macroeconomics & Monetary Economics**: Macroeconomics (Master's & Bachelor's), Monetary Economics (Bachelor's)
 - **Microeconomics**: Microeconomics II (Master's)
 - **Corporate Finance & Finance**: Corporate Finance (Bachelor's), Finance (MBA)
