@@ -4,8 +4,8 @@ title: "Teaching"
 
 #### Teaching Fields
 
-- **Macroeconomics & Monetary Economics** — Macroeconomics (Master's & Bachelor's), Monetary Economics (Bachelor's)
-- **Microeconomics** — Microeconomics II (Master's)
-- **Corporate Finance & Finance** — Corporate Finance (Bachelor's), Finance (MBA)
-- **Econometrics** — Econometrics I (Master's)
-- **Regional & Transportation Economics** — Regional Economics (Master's & Bachelor's), Transportation Economics (Master's)
+- **Macroeconomics & Monetary Economics**: Macroeconomics (Master's & Bachelor's), Monetary Economics (Bachelor's)
+- **Microeconomics**: Microeconomics II (Master's)
+- **Corporate Finance & Finance**: Corporate Finance (Bachelor's), Finance (MBA)
+- **Econometrics**: Econometrics I (Master's)
+- **Regional & Transportation Economics**: Regional Economics (Master's & Bachelor's), Transportation Economics (Master's)
