@@ -21,14 +21,6 @@ title: "Research"
    Patrick McCarthy, **Zhe Zhai**. *Research in Transportation Economics*, 77:100728, 2019. [Journal](https://doi.org/10.1016/j.retrec.2019.05.001){.pub-link}
 :::
 
-## Publications in Chinese
-
-::: {.pub-list}
-- **翟喆**. 再探"强生门"迷雾. 现代商业, (7):276–277, 2010.
-- **翟喆**. 宝钢收购新钢的并购方案筹划及影响预测. 财会研究, (21):60–62, 2010.
-- **翟喆**. 中国税制改革中的遗产税. 现代经济信息, (24):98, 2009.
-:::
-
 ## Grants
 
 - **The Multidimensional Effects and Mechanism Analysis of Corporate Green Innovation on the Enhancement of New Quality Productive Forces.** Faculty Research Grants, Macau University of Science and Technology. *Principal Investigator, 2024–2025.*
