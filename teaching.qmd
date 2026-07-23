@@ -2,17 +2,10 @@
 title: "Teaching"
 ---
 
-#### Macau University of Science and Technology (2024–present)
+#### Teaching Fields
 
-- Regional Economics (Master's & Bachelor's)
-- Finance (MBA)
-- Macroeconomics (Bachelor's)
-- Monetary Economics (Bachelor's)
-- Corporate Finance (Bachelor's)
-
-#### Hunan University (2018–2024)
-
-- Macroeconomics (Master's)
-- Microeconomics II (Master's)
-- Econometrics I (Master's)
-- Transportation Economics (Master's)
+- Macroeconomics & Monetary Economics
+- Microeconomics
+- Corporate Finance & Finance (MBA)
+- Econometrics
+- Regional & Transportation Economics
