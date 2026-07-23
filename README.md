@@ -19,14 +19,14 @@ Everything on the site is plain text. To change anything, edit a file and re-pub
 ## CV source of truth
 
 The CV lives in your **CV folder**, not here:
-`~/Library/Mobile Documents/com~apple~CloudDocs/Personal documents/CV/web-cv/`
-(also reachable via the `cv-source` link in the project root).
+`~/Library/Mobile Documents/com~apple~CloudDocs/Personal documents/CV/CV_ZHAI Zhe.pdf`
+(the whole folder is also reachable via the `cv-source` link in the project root).
 
-You edit the CV there (`CV-web.tex` → `./build.sh`). This website only **pulls the newest
-PDF** from that folder. To update the site's CV:
+You edit the CV there (`CV_ZHAI Zhe.tex` → `xelatex "CV_ZHAI Zhe.tex"`). This website only
+**pulls that PDF**. To update the site's CV:
 
 ```bash
-./pull-cv.sh            # copy newest CV/web-cv/*.pdf into cv.pdf
+./pull-cv.sh            # copy CV_ZHAI Zhe.pdf into cv.pdf
 ./pull-cv.sh --publish  # ...and render + deploy in one step
 ```
 
